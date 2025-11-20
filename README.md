@@ -20,8 +20,13 @@ Recently, I’ve also developed a strong curiosity and growing interest in **Dat
 ### 📫 **How to reach me**
 [LinkedIn – Edgar Firmino](https://www.linkedin.com/in/edgar-firmino/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EdgarFir&show_icons=true&theme=default)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarFir&layout=compact)
+---
 
+### 📊 **GitHub Stats**
 
+<div align="center">
 
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EdgarFir&show_icons=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarFir&layout=compact" />
+
+</div>
