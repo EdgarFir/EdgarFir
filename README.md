@@ -19,8 +19,8 @@ I’m currently strengthening my foundations as a **Computer Science student at 
 [LinkedIn – Edgar Firmino](https://www.linkedin.com/in/edgar-firmino/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EdgarFir&show_icons=true&theme=default)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarFirE&layout=compact)
-![Visitors](https://komarev.com/ghpvc/?username=TEU_USERNAME&color=blueviolet)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarFir&layout=compact)
+![Visitors](https://komarev.com/ghpvc/?username=EdgarFir&color=blueviolet)
 
 
 
