@@ -6,6 +6,8 @@ After completing two online courses in **Computer Science** and **Python**, I re
 
 I’m currently strengthening my foundations as a **Computer Science student at 42 Porto**, a peer-to-peer, project-based school that helps develop technical, problem-solving, teamwork, and communication skills.
 
+Recently, I’ve also developed a strong curiosity and growing interest in **Data Science**, **Machine Learning**, and **Artificial Intelligence**, and I’m beginning to explore these fields step by step.
+
 ---
 
 ### 🔧 **Tools & Technologies**
@@ -20,24 +22,6 @@ I’m currently strengthening my foundations as a **Computer Science student at 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EdgarFir&show_icons=true&theme=default)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarFir&layout=compact)
-![Visitors](https://komarev.com/ghpvc/?username=EdgarFir&color=blueviolet)
 
 
 
-
-
-
-<!--
-**EdgarFir/EdgarFir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
